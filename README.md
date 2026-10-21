@@ -1,4 +1,18 @@
-Segundo Cérebro Fiscal — Reforma Tributária do Consumo
+<div align="center">
+
+# Segundo Cérebro Fiscal
+### Reforma Tributária do Consumo
+
+**Um projeto de estudo com Inteligência Artificial, legislação oficial e aplicação fiscal em sistemas ERP.**
+
+![Projeto](https://img.shields.io/badge/PROJETO-Segundo%20C%C3%A9rebro%20Fiscal-18243B?style=for-the-badge)
+![IA](https://img.shields.io/badge/IA-Gemini%20Notebook-455C91?style=for-the-badge)
+![Tema](https://img.shields.io/badge/TEMA-Reforma%20Tribut%C3%A1ria-9475C7?style=for-the-badge)
+![Status](https://img.shields.io/badge/STATUS-Em%20desenvolvimento-D9D1ED?style=for-the-badge)
+
+</div>
+
+---
 
 ## Sobre o projeto
 
