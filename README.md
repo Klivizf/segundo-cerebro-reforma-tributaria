@@ -55,7 +55,9 @@ Foram realizados três testes no Gemini Notebook:
 As capturas de tela registram três testes realizados no Gemini Notebook:
 
 Teste 01 — Conhecimento: perguntas sobre as principais mudanças da Reforma Tributária do Consumo.
+
 Teste 02 — Validação das fontes: conferência das citações e dos documentos utilizados nas respostas.
+
 Teste 03 — Aplicação profissional: investigação dos impactos documentados nos sistemas ERP e distinção entre obrigações legais e hipóteses técnicas.
 
 As evidências permitem acompanhar o procedimento adotado durante os testes. A conferência das fontes originais continua sendo necessária para validar as afirmações jurídicas e técnicas.
